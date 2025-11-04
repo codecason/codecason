@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 I’m currently learning natural language processing
-- 👯 I’m looking to collaborate on epicgames and NLP
-- 🤔 I’m looking for help with databases
-- 📫 How to reach me: ... kinsco164 At sina dot com
+- 🌱 I’m currently learning Multimodal LLMs, CUDA and Reinforcement Learning
+- 🎯 My ultimate aim is to contribute to the research of science
+- 👯 I’m looking to collaborate on epicgames, LLMs
+- 🤔 I’m looking for help with frontend and system programming
+- 📫 How to reach me: Not available currently
